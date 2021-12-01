@@ -1,0 +1,17 @@
+.swatches {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100vw;
+  background-color: #cdcdcd;
+  padding: 10px 0;
+}
+
+.swatch {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+  background-color: red;
+  cursor: pointer;
+}
